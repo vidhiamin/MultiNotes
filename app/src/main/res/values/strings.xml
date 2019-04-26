@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Multi Notes</string>
+    <string name="copyright_details">©2019, Vidhi Amin</string>
+    <string name="version">Version 1.0</string>
+    <string name="filename">notesDB.json</string>
+    <string name="encoding">UTF-8</string>
+    <string name="saved">Data successfully Saved!</string>
+    <string name="untitled_note_error">Un-titled activity was not saved.</string>
+</resources>
